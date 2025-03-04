@@ -13,7 +13,7 @@
 
 ## Контактная информация
 
-<img src="photo_2025-02-22_09-46-18.jpg" alt="Милашка" width="250" height="300">
+<img src="photo_2025-02-22_09-46-36.jpg" alt="Милашка" width="250" height="300">
 
 - <img src="e4a6f963841409d354894837be0aa5bf.jpg" alt="Телефончик" width="30" height="30">+375257953497  
 - <img src="9eb2d84cd6661c441b97bca5c231d1ee.jpg" alt="Почта" width="30" height="30">milana_chepikova@mail.ru  
